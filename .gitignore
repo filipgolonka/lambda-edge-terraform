@@ -1,0 +1,7 @@
+/.idea/
+/.terraform/
+/dist/
+/node_modules/
+terraform.tfstate*
+.terraform.tfstate.lock.info
+
